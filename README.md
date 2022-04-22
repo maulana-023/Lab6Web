@@ -40,6 +40,7 @@ Code html dan link bootstrap:
   </body>
 </html>
 ```
+<hr>
 
 ### 2. MEMBUAT CONTAINER
 
@@ -55,6 +56,7 @@ Code html:
 
     </div>
 ```
+<hr>
 
 ### 3. Membuat card
 ![Menambahkan_Paragraf](pict/ss1.png)
@@ -69,6 +71,7 @@ Berikut hasil atau tampilan dari Header saya yang buat dan juga menambahkan Box-
         </div>
     </div>
 ```
+<hr>
 
 ### 4 . Membuat navigasi
 ![Menambahkan_Paragraf](pict/ss2.png)
@@ -93,6 +96,7 @@ Membuat Navigasi dengan class "navbar" bootstrap telah menyediakan semuanya hany
             </ul>
 </nav>
 ```
+<hr>
 
 ### 5 . Membuat card section description
 ![Menambahkan_Paragraf](pict/ss3.png)
@@ -110,10 +114,11 @@ Selanjutnya yaitu membuat card body dengan isi section description atau isi kont
             </div>
 </div>
 ```
+<hr>
 
 ### 6.MEMBUAT (CARD 1,CARD 2, CARD 3) DAN WIDGET DENGAN GRID ROW DAN COL
 
-#### CARD 1
+### CARD 1
 ![Menambahkan_Paragraf](pict/ss4.png)
 Menambahkan CARD 1 dengan menggunakan grid row dan col dan juga menggunakan beberapa *class dalam bootstrap.
 
@@ -139,7 +144,7 @@ Menambahkan CARD 1 dengan menggunakan grid row dan col dan juga menggunakan bebe
         </div>
 ```
 
-#### CARD 2
+### CARD 2
 ![Menambahkan_Paragraf](pict/ss5.png)
 
 ### Dibawah ini Adalah Codingan Dari Gambar Diatas:
@@ -161,7 +166,7 @@ Menambahkan CARD 1 dengan menggunakan grid row dan col dan juga menggunakan bebe
             </div>
 ```
 
-#### CARD 
+### CARD 3
 ![Menambahkan_Paragraf](pict/ss6.png)
 Card 3 juga sama seperti card lain nya masih dalam row dan col yang class yang sama seperti contoh gambar di atas.
 
@@ -183,6 +188,7 @@ Card 3 juga sama seperti card lain nya masih dalam row dan col yang class yang s
                 </div>
             </div>
 ```
+<hr>
 
 ### WIDGET HEADER
 ![Menambahkan_Paragraf](pict/ss7.png)
@@ -204,6 +210,7 @@ Menambahkan Widget class list group pada bootstrap karena bootstrap sudah menyed
                     <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
                 </div>
 ```
+<hr>
 
 ### WIDGET TEXT
 ![Menambahkan_Paragraf](pict/ss8.png)
@@ -225,6 +232,7 @@ Langkah berikutnya yaitu membuat widget text pada colom yang sama dengan widget 
                 </div>
             </div>
 ```
+<hr>
 
 ### MEMBUAT ROW CONTENT 2 (SECTION 1)
 ![Menambahkan_Paragraf](pict/ss9.png)
@@ -261,6 +269,7 @@ Lalu membuat row baru dan juga col baru dengan menambahkan class dan juga inline
             </div>
         </div>
 ```
+<hr>
 
 ### MEMBUAT ROW CONTENT 3 (SECTION 2)
 ![Menambahkan_Paragraf](pict/ss10.png)
@@ -296,6 +305,7 @@ Kemudian menambahkan section 2 dengan dibungkus row dan col seperti hasil di ata
             </div>
         </div>
 ```
+<hr>
 
 ### MEMBUAT CARD FOOTER
 Terakhir yaitu membuat card-footer dengan class card yang terdapat dibootstrap seperti gambar di atas dan code di bawah.
@@ -306,6 +316,8 @@ Terakhir yaitu membuat card-footer dengan class card yang terdapat dibootstrap s
     <p>© 2022 - Universitas Pelita Bangsa</p>
 </div>
 ```
+<hr>
 
 ### Full layout
 ![Menambahkan_Paragraf](pict/ss11.png)
+<hr>
